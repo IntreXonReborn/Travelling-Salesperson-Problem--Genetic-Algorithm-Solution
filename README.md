@@ -8,4 +8,4 @@ Project Description:
 	by Minimizing equivalent distance at every generation using a population size
 	of ratio 10 to the number of cities.
 
-	Detailed analysis with graphs and charts are present in the pdf file: Report.pdf
+	Detailed analysis with graphs and charts are present in the pdf file: TSP Genetic Algorithm.pdf
